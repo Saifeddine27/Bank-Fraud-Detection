@@ -51,8 +51,8 @@ Three models were trained and compared:
   * `scale_pos_weight` = Dynamically calculated ratio of negative to positive classes.
 
 ## 📁 Repository Structure
-* `analysis.ipynb` / `analysis_2.ipynb`: Jupyter notebooks containing the full EDA, feature engineering, training, and evaluation pipeline.
-* `best_fraud_model_tuned.pkl` / `best_fraud_model_tuned_2.pkl`: Serialized versions of the final, optimized XGBoost models ready for deployment or inference.
+* `analysis.ipynb`: The Google Colab notebook containing the full Exploratory Data Analysis (EDA), feature engineering, model training, and evaluation pipeline.
+* `best_fraud_model_tuned.pkl`: The serialized version of the final, optimized XGBoost model, ready for deployment or inference.
 * `README.md`: Project documentation.
 
 ## 🛠️ Requirements & Dependencies
